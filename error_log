@@ -1,0 +1,6 @@
+[10-Sep-2016 18:26:04 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/cscsme/public_html/wp/wp-content/themes/zerif-lite/footer.php on line 175
+[10-Sep-2016 18:27:30 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/cscsme/public_html/wp/wp-content/themes/zerif-lite/footer.php on line 175
+[10-Sep-2016 18:28:22 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/cscsme/public_html/wp/wp-content/themes/zerif-lite/footer.php on line 175
+[16-Sep-2016 06:10:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cscsme/public_html/wp-content/themes/zerif-lite/page.php on line 62
+[16-Sep-2016 06:10:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/cscsme/public_html/wp-content/themes/zerif-lite/page.php on line 62
+[16-Sep-2016 06:16:56 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/cscsme/public_html/wp-content/themes/zerif-lite/content-page.php on line 12
